@@ -1,3 +1,1 @@
-include ':CustomToastUtil'
-include ':app'
-rootProject.name = "CustomToastLibrary"
+include ':app', ':CustomToastUtil'
